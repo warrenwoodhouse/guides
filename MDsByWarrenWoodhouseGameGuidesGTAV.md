@@ -114,10 +114,10 @@ Index
 
 * [Front Cover](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#frontcover)
 * [Document Details](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#details)
-** [Document Information](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#document)
-** [Author Details](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#author)
+* [Document Information](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#document)
+* [Author Details](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#author)
 * [Terms & Conditions](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#terms)
-** [License Agreement](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#license)
+* [License Agreement](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#license)
 * [Index](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#index)
 Updates - sec:updates
       > Downloads For This Guide - sec:updates:documentdownloads

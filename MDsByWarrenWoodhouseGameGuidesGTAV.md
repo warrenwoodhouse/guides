@@ -71,8 +71,7 @@ Index
 * [Terms & Conditions](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#terms)
   * [License Agreement](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#license)
 * [Index](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#index)
-* [About](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#about)
-  * [About the Game](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#aboutthegame)
+* [About the Game](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#about)
   * [My Description](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mydescription)
   * [Cover Blurb](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#coverblurb)
   * [Introduction Titles/Opening Credits](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#introductioncredits)
@@ -83,31 +82,36 @@ Index
   * [How to install the Game](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#setupstep3)
   * [How to download your Atomic Blimp Game Addon](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#setupstep4)
   * [Playing the Game](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#setupstep5)
-Controls - sec:controls
-      > On Foot - sec:controls:onfoot
-      > In Car - sec:controls:incar
-      > In Rhino Tank - sec:controls:inrhinotank
-      > In Jet - sec:controls:injet
-      > On Train - sec:controls:ontrain
-      > In Train - sec:controls:intrain
-      > In Subway - sec:controls:insubway
-Find - sec:find
-Missions List - sec:mis
-Missions - mis
-      > INTRODUCTION - introduction
-      > Mission 1 - Prologue - mis1
-      > i - LUDENDORFF, NORTH YANKTON, NINE YEARS AGO. - mis1:i
-      > ii - OPENING TITLES/INTRODUCTION TITLES/OPENING CREDITS - mis1:logo
-      > iii - OPENING CREDITS (continued) - mis1:credits
-      > Mission 2 - Franklin & Lamar - mis2
-      > Mission 3 - Reposession - mis3
-      > Mission 4 - Complications - mis4
-      > Mission 5 - Father/Son - mis5
-      > Mission 6 - Chop - mis6
-      > Mission 7 - Marriage Counseling - mis7
-      > Mission 8 - Daddy's Little Girl - mis8
-      > Mission 9 - Friend Request - mis9
-      > Mission 10 - The Long Stretch - mis10
+* [Controls](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#controls)
+  * [XBOX 360 Controls](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#xbox360controls)
+  * XBOX ONE Controls](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#xboxonecontrols)
+  * PlayStation 3 Controls](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#ps3controls)
+  * PlayStation 4 Controls](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#ps4controls)
+  * PlayStation 5 Controls](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#ps5controls)
+  * PC Controls](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#pccontrols)
+  * On Foot](
+  * In Car](
+  * In Rhino Tank](
+  * In Jet](
+  * On Train](
+  * In Train](
+  * In Subway](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#insubwaycontrols)
+* [Find](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#find)
+* [Missions](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis)
+  * [INTRODUCTION](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#intro)
+  * [Mission 1 - Prologue](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis1)
+    * [Part 1 - LUDENDORFF, NORTH YANKTON, NINE YEARS AGO.](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis1i)
+    * [Part 2 - OPENING TITLES/INTRODUCTION TITLES/OPENING CREDITS](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis1logo)
+    * [Part 3 - OPENING CREDITS (CONTINUED)](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis1credits)
+  * Mission 2 - Franklin & Lamar - mis2
+  * Mission 3 - Reposession - mis3
+  * Mission 4 - Complications - mis4
+  * Mission 5 - Father/Son - mis5
+  * Mission 6 - Chop - mis6
+  * Mission 7 - Marriage Counseling - mis7
+  * Mission 8 - Daddy's Little Girl - mis8
+  * Mission 9 - Friend Request - mis9
+  * Mission 10 - The Long Stretch - mis10
       > Mission 11 - Casing The Jewel Store - mis11
       > Mission 12 - Bugstars Equipment - mis12
       > Mission 13 - BZ Gas Grenades - mis13
@@ -481,68 +485,229 @@ DLC Packs - sec:dlc
       > Grand Theft Auto V: Content Creator (DLC PACK) - sec:games:v:contentcreator
       > Grand Theft Auto V: Valentine's Day Massacure Special (DLC PACK) - sec:games:v:valentinesdaymassacurespecial
       > Grand Theft Auto V: The Business Update Special (DLC PACK) - sec:games:v:thebusinessupdatespecial
-Past Grand Theft Auto Games - sec:games
-      > Grand Theft Auto - sec:games:gta
-      > Grand Theft Auto: London 1969 (GRAND THEFT AUTO: EXPANSION PACK #1) - sec:games:gtalondon
-      > Grand Theft Auto: London 1961 (DLC PACK) - sec:games:gtalondon:1961
-      > Grand Theft Auto 2 - sec:games:gta2
-      > Grand Theft Auto III - sec:games:grandtheftauto3
-      > Grand Theft Auto III: Special Edition - sec:games:grandtheftauto3:specialedition
-      > Grand Theft Auto III: Collectors Edition - sec:games:grandtheftauto3:collectorsedition
-      > Grand Theft Auto III: RAGE Classic Edition - sec:games:grandtheftauto3:rageclassicedition
-      > Grand Theft Auto III: Android Edition - sec:games:grandtheftauto3:androidedition
-      > Grand Theft Auto Vice City - sec:games:vicecity
-      > Grand Theft Auto Vice City: Special Edition - sec:games:vicecity:specialedition
-      > Grand Theft Auto Vice City: Collectors Edition - sec:games:vicecity:collectorsedition
-      > Grand Theft Auto Vice City: RAGE Classic Edition - sec:games:vicecity:rageclassicedition
-      > Grand Theft Auto Vice City: Android Edition - sec:games:vicecity:androidedition
-      > Grand Theft Auto San Andreas - sec:games:sanandreas
-      > Grand Theft Auto San Andreas: Special Edition (VERSION 1 - HOT COFFEE SPECIAL) - sec:games:sanandreas:specialedition:version1
-      > Grand Theft Auto San Andreas: Special Edition (VERSION 2 - HOT COFFEE SPECIAL REMOVED) - sec:games:sanandreas:specialedition:version2
-      > Grand Theft Auto San Andreas: Collectors Edition - sec:games:sanandreas:collectorsedition
-      > Grand Theft Auto San Andreas: RAGE Classic Edition - sec:games:sanandreas:rageclassicedition
-      > Grand Theft Auto San Andreas: Android Edition - sec:games:sanandreas:androidedition
-      > Grand Theft Auto The Trilogy - sec:games:thetrilogy
-      > Grand Theft Auto The Trilogy: Special Edition - sec:games:thetrilogy:specialedition
-      > Grand Theft Auto The Trilogy: Collectors Edition - sec:games:thetrilogy:collectorsedition
-      > Grand Theft Auto The Trilogy: RAGE Classic Edition - sec:games:thetrilogy:rageclassicedition
-      > Grand Theft Auto Liberty City Stories - sec:games:libertycitystories
-      > Grand Theft Auto Liberty City Stories: PSP Edition - sec:games:libertycitystories:pspedition
-      > Grand Theft Auto IV - sec:games:iv
-      > Grand Theft Auto IV: Special Edition - sec:games:iv:specialedition
-      > Grand Theft Auto IV: Collectors Edition - sec:games:iv:collectorsedition
-      > Grand Theft Auto IV: RAGE Classic Edition - sec:games:iv:rageclassicedition
-      > Grand Theft Auto IV: The Lost And Damned (DLC PACK) - sec:games:iv:thelostanddamned
-      > Grand Theft Auto IV: The Lost And Damned (DLC PACK): RAGE Classic Edition - sec:games:iv:thelostanddamned:rageclassicedition
-      > Grand Theft Auto IV: The Ballad Of Gay Tony (DLC PACK) - sec:games:iv:theballadofgaytony
-      > Grand Theft Auto IV: The Ballad Of Gay Tony (DLC PACK): RAGE Classic Edition - sec:games:iv:theballadofgaytony:rageclassicedition
-      > Grand Theft Auto Episodes From Liberty City - sec:games:episodesfromlibertycity
-      > Grand Theft Auto Episodes From Liberty City: RAGE Classic Edition - sec:games:episodesfromlibertycity:rageclassicedition
-      > Grand Theft Auto Vice City Stories - sec:games:vicecitystories
-      > Grand Theft Auto Vice City Stories: PSP Edition - sec:games:vicecitystories:pspedition
-      > Grand Theft Auto Chinatown Wars - sec:games:chinatownwars
-      > Grand Theft Auto Chinatown Wars: RAGE Classic Edition - sec:games:chinatownwars:rageclassicedition
-      > Grand Theft Auto V - sec:games:v
-      > Grand Theft Auto V: Online (GAME PACK) - sec:games:v:online
-      > Grand Theft Auto V: Atomic Blimp (DLC PACK) - sec:games:v:blimp
-      > Grand Theft Auto V: Beach Bum Special (DLC PACK) - sec:games:v:beachbumspecial
-      > Grand Theft Auto V: Holiday Gift Special (DLC PACK) - sec:games:v:holidaygiftspecial
-      > Grand Theft Auto V: Special Edition - sec:games:v:specialedition
-      > Grand Theft Auto V: Collectors Edition - sec:games:v:collectorsedition
-      > Grand Theft Auto V: Content Creator (DLC PACK) - sec:games:v:contentcreator
-      > Grand Theft Auto V: Valentine's Day Massacure Special (DLC PACK) - sec:games:v:valentinesdaymassacurespecial
-      > Grand Theft Auto V: The Business Update Special (DLC PACK) - sec:games:v:thebusinessupdatespecial
-Past Unofficial Grand Theft Auto Games - sec:games:unofficial
-      > Grand Theft Auto San Andreas: Ryder's Revenge (GRAND THEFT AUTO SAN ANDREAS) (DLC PACK) - sec:games:sanandreas:rydersrevenge
-      > Grand Theft Auto San Andreas: Before We Die (GRAND THEFT AUTO SAN ANDREAS) (DLC PACK) - sec:games:sanandreas:beforewedie
-      > Grand Theft Auto San Andreas Stories - sec:games:sanandreasstories
-      > Grand Theft Auto Vice - sec:games:vice
 Glossary - sec:glossary
 Promotional Information - sec:promotionalinformation
-Coming Soon From Woodhouse Productions - sec:comingsoon
-      > Daft Freak (The Movie) 2 (MOVIE) - sec:comingsoon:daftfreakthemovie2
-      > The Last Day (STORY) - sec:comingsoon:thelastday
-      > Run (STORY) - sec:comingsoon:run
 Resources - sec:resources
 Credits - sec:credits
 Back Cover - sec:backcover
+
+# about
+About the Game
+
+## mydescription
+My Description
+
+The game itself is set in the year 2012 CE and in what seems to be a modern refreshed look of what
+San Andreas was suppose to be. The game is now not limited to one protagonist but three. You get to
+play as three different criminals who are forced together by extreme odds who decide to use all their
+knowledge as criminals to steal, kill and make-do with tons of cash by robbing the local police
+departments, businesses and banks within the state.
+
+The criminals are on the HUD as:
+* [Michael De Santa/Michael Townley](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis1) and you regain control as him in (mis4) - blue
+* [Franklin Clinton](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis2) - green
+* [Trevor Philips](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis1) and you regain control as him in (mis15) - orange
+* [Yourself (GTA Online)](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#gtaomis1) and you regain control as him/her when you are playing online (Grand Theft Auto Online only) - yellow
+
+Three different criminals with their own unique personality, clothing style, unlockables, missions, vehicles
+and skills. This game has not got three islands anymore, just one really large one and lots of smaller branching
+islands which you can access at the start of the game after the first and second mission ([mis1](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis1) and [mis2](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis2) in my guide).
+The game has not got three cities either, just one. Although, nowadays Los Santos is much larger than it used to be, you
+can now visit different landscapes, areas, places and, yes, you can also visit Mt. Chiliad which is now much larger than it used to be.
+
+Good news is, there is more to do in this game than the previous titles. You can also switch to a different character at
+anytime, access different locations, purchase properties and do side-missions to earn extra cash, help out random
+pedestrians (in this game, it's known as "[Strangers & Freaks](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#strangersandfreaks)") and so much more. Plus, on top of all of that, you now
+don't get nagging friends asking if you want to go bowling while you are away from the area they are calling in. You're
+friendship with your contacts nolonger falls. You can, call them up and ask if they want to go somewhere instead.
+
+All this and more is explained throughout this guide from this point onwards. I welcome you to San Andreas. Have a nice stay!
+
+## coverblurb
+Cover Blurb
+
+ROCKSTAR GAMES PRESENTS
+A ROCKSTAR NORTH PRODUCTION
+
+Los Santos: a sprawling metropolis full of self-help gurus, starlets and fading celebrities struggling to stay afloat in an
+era of economic uncertainty and cheap cable TV. Amidst the turmoil, three very different criminals risk everything in a
+series of daring and dangerous heists that could set them up for life.
+
+NOTE: This section titled COVER BLURB has all the information from the back cover of the game cover for the XBOX 360 UK
+Edition version. Although, this note here is not on the cover though. Also shown on the back cover and I'm not sure if
+anyone else noticed it either, but the old GTA 2 logo is shown near the bottom right of the back cover only with the
+numeric 2 missing. This, I think, symbolises the GTA family products placeholder.
+
+## openingcredits
+Introduction Titles/Opening Credits
+Read the section [mis1credits](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis1credits) for the full list of developers, etc. mentioned at the start of the opening titles.
+
+## endcredits
+Outroduction Titles/End Credits
+Read the section [mis69credits](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mis69credits) for the full list of developers, etc. mentioned at the start of the ending titles.
+
+## currency
+Currency
+
+The US Dollar Bill marked by the symbol as $, is the currency of the United States of America and is considered
+to be legal tender for all transactions. When on GTA Online, the currency is marked as US Dollar Bill in the symbol
+of the US Dollar Bill as GTA$, represents online currency or virtual currency, which is also used to pay for
+transactions aswell.
+
+You can always see how much cash you have available by going to any available ATM, by going onto the stock exchange
+websites at [www.lcn-exchange.com](https://www.lcn-exchange.com/] and at [www.bawsaq.com](www.bawsaq.com), by viewing it
+on the overview page on GTA Online, by pausing the game and viewing the amount of funds available in the top right
+corner and by playing the game as normal and by pressing v on the d-pad when walking during free-roam or story mode.
+
+If you need quick cash, you can rob a local shop (you'll need to be in a mask), do heist jobs during story mode, do
+heist jobs during GTA Online, by completing certain missions, by killing pedestrians (and then taking their money),
+by completing taxi jobs, towing jobs around San Andreas or by manipulating the stock exchange in your favor to earn
+tons of money.
+
+Even if you have completely ran out of cash, certain expenses will continue being paid each month such as businesses
+you own will give you your share of the business profits.
+
+## features
+Features
+
+## characterswitching
+Character Switching
+
+In this guide, it's also referred to as Quick-Switch, Switch or Character Switch.
+Grand Theft Auto V features 3 playable protagonists - Michael, Franklin and Trevor - and
+many missions are tackled by 2 or 3 of them together, with the ability to switch between
+the characters mid-action as they work as a team to get the job done.
+
+Off mission, Michael, Franklin and Trevor each go about separate lives with their own
+friends, hobbies and sidelines, giving the player the choice to experience and explore
+San Andreas from 3 very different perspectives; for the voyeur in all of us, the freedom
+to switch between them in Real-Time at any point to see what they've been up to.
+
+Your 4th character slot at the bottom is reserved for your custom Grand Theft Auto Online
+player character - you can make either a man or a woman, the choice of customization is
+endless.
+
+## playerstats
+Player Stats
+
+Michael, Franklin and Trevor start with different Player Stats based on their backstory and
+skillset. Each of these stats can be improved with experience, which will in turn improve
+each character's individual abilities, reactions and endurance as they progress through
+the game. The more a character uses a skill, the more his related stats will increase.
+For example, if Michael spends time flying a helicopter, his Flying stat will increase.
+
+NOTE: Player Stats are unique to each character - spending alot of time behind the wheel
+as Franklin will increase Franklin's Driving stat, but won't have any effect on Michael
+or Trevor's Driving stat.
+
+The following stats are:
+* Special: Using a character's Special Ability will gradually improve their Special stat.
+As the stat bar increases, the speed at which that character's Special Ability bar fills up
+will also increase.
+* Stamina: Extra Stamina will allow the character to sprint, swim and cycle for longer
+without getting tired. The Stamina stat will increase as the player performs each of those
+activities.
+* Shooting: A higher Shooting stat will make the character more accurate by reducing recoil
+while Shooting any gun. He will also be able to reload faster and carry more ammunition.
+The more targets the player hits, particularly with headshots, the more his Shooting stat
+will increase. Spend time in the Shooting Range and take on Shooting Challenges as a fast
+way of improving this skill.
+* Stength: Additional Strength will inflict heavier damage during hand-to-hand combat,
+increase speed at climbing ladders, decrease the amount of damage taken from falls, car
+crashes, explosions, fire and improve the character's Tennis and Golf by allowing him to
+hit the ball harder. Engaging in unarmed combat, taking part in sports like Tennis, Golf
+and Yoga will raise the character's Strength.
+* Stealth: The higher the Stealth stat is, the quieter the character will be in both
+Stealth, normal movement modes and he'll also be able to move more quickly in Stealth Mode.
+The Stealth stat will increase the more time you spend moving in Stealth or by performing
+Stealth takedowns. Press LEFT STICK to enter Stealth Mode.
+* Flying: When the character has a low Flying stat, the performance of any aircraft he is
+Flying will be more susceptible to the effects of turbulence. As the stat increases, the
+character will be able to both Fly and land more smoothly. Increasing the Flying stat will
+improve the character's ability to Fly all aircrafts. Spending more time Flying will
+improve the Flying stat. Visit the Flight School to help improve this stat.
+* Driving: Improving the Driving stat will improve the character's vehicle handling when
+airborne and will also make performing wheelies much easier. The more time the character
+spends Driving vehicles, the faster the Driving stat will improve, particularly performing
+wheelies and landing big jumps on 4 wheels.
+* Lung Capacity: Having a high Lung Capacity means the character can stay submerged
+underwater for longer. Lung Capacity will increase as the character spends more time
+underwater.
+
+## specialabilities
+Special Abilities
+
+Michael, Franklin and Trevor each has his own unique Special Ability. To activate a
+Special Ability, press LEFT STICK+RIGHT STICK simultaneously. Beneath the mini-map there
+is a Special Ability bar showing how much Special Ability the character has left (see HUD).
+The Special Ability bar fills up when certain actions are taken, which vary from player
+to player.
+
+## michaelspecialability
+Michael's Special Ability
+
+Michael is an expert marksman with lightning reactions in a gunfight. His Special Ability
+slows down time in a gunfight allowing him to pick off his targets with greater ease.
+Increase Michael's Special Ability bar by driving at high speeds, performing lethal moves
+such as headshots and stealth takedowns.
+
+## franklinspecialability
+Franklin's Special Ability
+
+Franklin is a skilled driver with sharp reflexes behind the wheel. His Special Ability
+allows him to slow down time while driving any road vehicle allowing him to quickly
+navigate through traffic with ease and take corners at high speed. Time spent driving at
+high speeds, narrowly avoiding collisions and driving against traffic will increase his
+Special Ability bar.
+
+## trevorspecialability
+Trevor's Special Ability
+
+Trevor is a drug-addled sociopath with a short fuse. His Special Ability sends him into a
+rage, during which he causes double damage to enemies and grants him invincibility. Killing
+targets, performing headshots, driving at high speeds and taking damage increase his
+Special Ability bar.
+
+## technicalsupport
+Technical Support
+
+If you have a problem with the game such as a glitch, an error, downloading issues and other technical problems or
+complaints.
+
+* [Rockstar Games Support Website](https://rockstargames.com/support)
+* [Rockstar Games Support on Twitter](https://twitter.com/rockstargames)
+* [Rockstar Games UK Email Technical Support](mailto:uk@rockstarsupport.com)
+* [Rockstar Games Email Technical Support](mailto:support@rockstargames.com)
+
+# controls
+Controls
+
+## xbox360controls
+XBOX 360 Controls
+
+* add
+
+## xboxonecontrols
+XBOX ONE Controls
+
+* add
+
+## ps3controls
+PlayStation 3 Controls
+
+* add
+
+## ps4controls
+PlayStation 4 Controls
+
+* add
+
+## ps5controls
+PlayStation 5 Controls
+
+* add
+
+## pccontrols
+PC Controls
+
+* add

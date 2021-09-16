@@ -1,55 +1,7 @@
 # frontcover
 Front Cover
 
- x----------x                                                                x---x
- |          |                                                                |   |
- | \ \  / / |                                                                |   |
- |  \ \/ /  |                x---------x x--------x x-------x x--x      x----x   |
- |   \/\/   |                |         | |        | |       | |  x----x |        | 
- |          |                |    |    | |    |   | |  x-x  | |  x-x  | |  x-x   |
- x----------x                |    |    | |    |   | x--x |  | |  | |  | |  | |   |
-                             |    |    | |       -x x----x  | |  | |  | |  | |   |
-                             |    |    | |    |   | | x--x  | |  | |  | |  | |   |
-                             |         | |    |   | | |  |  | |  | |  | |  x-x   |
-                             x----x    | |    |   | | x--x  | |  | |  | |        |
-                                  |    | |    |   | x-------x x--x x--x x--------x
-                             x----x    | x----x   | 
-                             |         |      |   x------x
-                             x---------x x--x |          |
-                                         |  | x-------x  |
-                                         |  |         |  |                          x--x
-                                       x-x  x-----x   |  |                          |  |
-                                       |          |   |  x----x x------x x------x x-x  x-----x
-                                       x-x  x-----x   |       | | x--x | |      | |          |
-                                         |  |         |  x-x  | | x--x | |  x---x x-x  x-----x
-                                         |  | x---x   |  | |  | | x----x |  x---x   |  |
-                                         |  | |   |   |  | |  | | |  x-x |      |   |  | x---x
-                                         |  x-x   |   |  | |  | | x--x | |  x---x   |  x-x   |
-                                         |        |   |  | |  | |      | |  |       |        |
-                                         x--------x   x--x x--x x------x x--x       x--------x
-
-                              x-------x  x--x  x--x   x--x       x------x  x------------x      x---------------x
-                              |       |  |  |  |  |   |  |       |      |  |            |      |               |
-                              |  x-x  |  |  |  |  | x-x  x-----x | x--x |  x-x       x--x      x--x         x--x
-                              x--x |  |  |  |  |  | |          | | |  | |     \     /              \       /
-                              x----x  |  |  |  |  | x-x  x-----x | |  | |      \    |               |     /
-                              | x--x  |  |  |  |  |   |  |       | |  | |       x---x               x----x
-                              | |  |  |  |  |  |  |   |  | x---x | |  | |  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-                              | |  |  |  |  x--x  |   |  x-x   | | x--x |xx   _______   ___ __       __  ______  xx
-                              | x--x  |  |        |   |        | |     xx     \     _|  | | \ \     / / /  ___/    xx
-                              x-------x  x--------x   x--------x x---xx        |   |_   | |  \ \   / / /  /___       xx
-                                                                    x          |    _|  | |   \ \_/ / /   ___/         x
-                                                                     xx        |   |    | |    \   / /   /__         xx
-                                                                       xx     /____\    |_|     \_/ /______/       xx
-                                                                         xx                                      xx
-                                                                           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-                                                                                  x-----x      x----x
-                                                                                   \     \    /    /
-                                                                                    \     x--x    /
-                                                                                     \           /
-                                                                                      \         /
-                                                                                       x-------x
-
+![Header](https://github.com/warrenwoodhouse/photos/releases/download/other/JPEGs_ByWarrenWoodhouse_GTAVGuideHeader.jpeg)
 
 # details
 Document Details
@@ -80,7 +32,7 @@ Document Information
 * DOCUMENT ALSO AVAILABLE AT: https://warrenwoodhouse.fandom.com/wiki/Guides:GTAV
 * DOCUMENT CREATED: 17th September 2013 at 00:00am GMT+00 North East, England, United Kingdom.
 * DOCUMENT AUTHOR: Warren Woodhouse
-* LAST UPDATED: 14th September 2021 at 7:43am GMT+00 Northumberland, England, United Kingdom.
+* LAST UPDATED: 16th September 2021 at 8:00am GMT+00 Northumberland, England, United Kingdom.
 * UPDATED DOCUMENT AVAILABLE AT: http://warrenwoodhouse.fandom.com/wiki/Guides:GTAV
 
 THIS WALKTHROUGH GUIDE IS FOR PRIVATE HOME USE ONLY.
@@ -114,27 +66,23 @@ Index
 
 * [Front Cover](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#frontcover)
 * [Document Details](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#details)
-* [Document Information](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#document)
-* [Author Details](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#author)
+  * [Document Information](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#document)
+  * [Author Details](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#author)
 * [Terms & Conditions](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#terms)
-* [License Agreement](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#license)
+  * [License Agreement](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#license)
 * [Index](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#index)
-Updates - sec:updates
-      > Downloads For This Guide - sec:updates:documentdownloads
-      > Alerts - sec:updates:alerts
-      > Newswire - sec:updates:newswire
-About - sec:about
-      > About The Game - sec:about:game
-      > My Description - sec:about:game:mydescription
-      > Cover Blurb - sec:about:game:coverblurb
-      > Introduction Titles/Opening Credits - sec:about:game:introductioncredits
-      > Outroduction Titles/End Credits - sec:about:game:outroductioncredits
-Setting Up The Game - sec:setup
-      > How To Create An XBOX 360 Account & Avatar - sec:setup:step1
-      > How To Setup XBOX LIVE For An XBOX 360 Account - sec:setup:step2
-      > How To Install Disc 1 - sec:setup:step3
-      > How To Download Your Atomic Blimp Game Addon - sec:setup:step4
-      > Playing The Game - sec:setup:step5
+* [About](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#about)
+  * [About the Game](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#aboutthegame)
+  * [My Description](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#mydescription)
+  * [Cover Blurb](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#coverblurb)
+  * [Introduction Titles/Opening Credits](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#introductioncredits)
+  * [Outroduction Titles/End Credits](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#outroductioncredits)
+* [Setting up the Game](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#setup)
+  * [How to setup your Gaming Experience](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#setupstep1)
+  * [How to create a Rockstar Games Social Club Account](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#setupstep2)
+  * [How to install the Game](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#setupstep3)
+  * [How to download your Atomic Blimp Game Addon](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#setupstep4)
+  * [Playing the Game](https://github.com/warrenwoodhouse/guides/blob/22a3c03b746e47809adf5152dabd5684123e9e25/MDsByWarrenWoodhouseGameGuidesGTAV.md#setupstep5)
 Controls - sec:controls
       > On Foot - sec:controls:onfoot
       > In Car - sec:controls:incar

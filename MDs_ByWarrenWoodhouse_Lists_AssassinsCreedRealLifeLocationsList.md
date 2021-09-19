@@ -9,7 +9,6 @@ Add locations here
 * Abstergo Industries: add
 * Unknown City: add
 * Unknown Warehouse: add
-{{clear}}
 
 '''CITY OF FLORENCE'''
 * Florence (Comune di Firenze) <small>(on the map)</small>
@@ -32,19 +31,16 @@ Add locations here
 * San Marco District
 * Loggia dei Lanzi
 * Palazzo Della Signoria
-{{clear}}
 
 '''TUSCANY COUNTRYSIDE'''
 * Antico Teatro Romano <small>(on the map)</small>
 * Monte Oliveto Maggiore <small>(on the map)</small>
 * Villa Salviati <small>(on the map)</small>
-{{clear}}
 
 '''CITY OF MONTERIGGIONI'''
 * Monteriggioni (Comune di Monteriggioni) <small>(on the map)</small>
 * Villa Auditore <small>(on the map)</small>
 * Banco di Monteriggioni <small>(on the map)</small>
-{{clear}}
 
 '''CITY OF SAN GIMIGNANO'''
 * San Gimignano (Comune di San Gimignano) <small>(on the map)</small>
@@ -54,24 +50,20 @@ Add locations here
 * Palazzo Comunale di San Gimignano <small>(on the map)</small>
 * Torre Grossa <small>(on the map)</small>
 * Torre Rognosa <small>(on the map)</small>
-{{clear}}
 
 '''ROMAGNA COUNTRYSIDE'''
 * Romagna Countryside <small>(on the map)</small>
 * Avamposto Veneziano
-{{clear}}
 
 '''APENNINE MOUNTAINS'''
 * Apennine Mountains <small>(on the map)</small>
 * Apennini (Comune di Apennini)
-{{clear}}
 
 '''CITY OF FORLÌ'''
 * Forlì (Comune di Forlì) <small>(on the map)</small>
 * Rocca di Ravaldino
 * Abbazia di San Mercuriale <small>(on the map)</small>
 * Palazzo Comunale di Forlì
-{{clear}}
 
 '''CITY OF VENICE'''
 * Venice (Comune di Venezia) <small>(on the map)</small>
@@ -85,7 +77,6 @@ Add locations here
 * San Giacomo di Rialto <small>(on the map)</small>
 * Squero di San Trovaso
 * La Rosa della Virtù
-{{clear}}
 
 '''CITY OF VATICAN'''
 * The Vatican (Comune di Il Vaticano) <small>(on the map)</small>
@@ -93,7 +84,6 @@ Add locations here
 * Sistine Chapel (Cappella Sistina) <small>(on the map)</small>
 * Basilica di San Pietro <small>(on the map)</small>
 * Castel Sant’Angelo <small>(on the map)</small>
-{{clear}}
 
 # Assassin's Creed: Brotherhood
 '''MODERN DAY'''
@@ -101,12 +91,10 @@ Add locations here
 * Monteriggioni Museum <small>(on the map)</small>
 * Villa Auditore <small>(on the map)</small>
 * Isu Vault: Il Colosseo (The Colosseum) <small>(on the map)</small>
-{{clear}}
 
 '''CITY OF MONTERIGGIONI'''
 * Monteriggioni (Comune di Monteriggioni) <small>(on the map)</small>
 * Villa Auditore <small>(on the map)</small>
-{{clear}}
 
 '''CITY OF FLORENCE'''
 * Florence (Comune di Firenze) <small>(on the map)</small>
@@ -116,13 +104,11 @@ Add locations here
 * Santa Trinita
 * Palazzo della Signoria
 * Loggia dei Lanzi
-{{clear}}
 
 '''CITY OF VENICE'''
 * Venice (Comune di Venezia) <small>(on the map)</small>
 * Squero di San Trovaso
 * La Rosa della Virtù
-{{clear}}
 
 '''CITY OF ROME'''
 * Rome (Comune di Roma) <small>(on the map)</small>
@@ -163,22 +149,18 @@ Add locations here
 * Colle Palatino
 * Basilica di Massenzio
 * Il Colosseo (The Colosseum) <small>(on the map)</small>
-{{clear}}
 
 '''ROMAGNA COUNTRYSIDE'''
 * Delizia di Belriguardo
-{{clear}}
 
 '''UMBRIA COUNTRYSIDE'''
 * Nera
 * Valnerina
-{{clear}}
 
 '''MONTE CAVO'''
 * Lago di Nemi
 * Monte Cavo
 * Colli Albani
-{{clear}}
 
 # Assassin's Creed Comics: Desmond
 Add locations here
@@ -187,16 +169,10 @@ Add locations here
 '''CITY OF LUGDUNUM'''
 * City of Lugdunum: 45.759722, 4.819444
 * Roman Camp: add
-{{clear}}
 
 # Assassin's Creed: Revelations
 '''CITY OF CONSTANTINOPLE'''
 * Sancaktar Hayrettin Camii (Sancaktar Hayrettin Mosque)
-{{clear}}
-
-'''DESMOND'S MEMORIES'''
-* Black Hills <small>(Mentioned Only)</small>
-{{clear}}
 
 '''MEDITERRANEAN DEFENSE MISSIONS'''
 * Tripoli
@@ -211,39 +187,36 @@ Add locations here
 * Tunis
 * Algiers
 * Alexandria
-{{clear}}
+
+## Assassin's Creed: Revelations: The Lost Archives
+'''DESMOND'S MEMORIES'''
+* Black Hills <small>(Mentioned Only)</small>
 
 # Assassin's Creed Comics: Accipiter
 '''CITY OF LUGDUNUM'''
 * City of Lugdunum: 45.759722, 4.819444
 * Prefect of Lugdunum: add
 * Rodanus: 45.756917, 4.838444
-{{clear}}
 
 '''CITY OF RODUMNA'''
-* City of Rodumna: Roanne, France.
-{{clear}}
+* City of Rodumna: Roanne, République Française.
 
 '''TOWN OF OPPIDUM'''
 * Town of Oppidum: 48.716, 11.516
-{{clear}}
 
 # Assassin's Creed: Initiates
-'''PEOPLE’S REPUBLIC OF CHINA'''
+'''IMPERIAL CHINA'''
 * Hong Kong
-{{clear}}
 
 # Assassin's Creed III
 '''UNITED KINGDOM'''
 * City of London
 * Theatre Royal: Royal Opera House, Covent Garden, City of London, Greater London, South East, England, United Kingdom. <small>(on the map)</small>
-{{clear}}
 
 '''ATLANTIC OCEAN'''
 * Atlantic Ocean: Atlantic Ocean, Oceania.
-{{clear}}
 
-'''FEDERAL UNION OF NORTH AMERICA'''
+'''UNION OF NORTH AMERICA'''
 '''FRONTIER'''
 > '''SCOTCH PLAINS'''
 * Scotch Plains: add
@@ -284,7 +257,6 @@ Add locations here
 * Johnson Hall: add
 > '''VALLEY FORGE'''
 * Valley Forge: add
-{{clear}}
 
 '''BOSTON'''
 * City of Boston: Boston, MA.
@@ -318,11 +290,9 @@ Add locations here
 * Church Residence: add
 * Christ Church: NPS Old North Church, 193 Salem Street, North End, Boston, MA.
 * Old Corner Book Store: Old Corner Bookstore, 283 Washington Street, Financial District, Boston, MA.
-{{clear}}
 
 '''NEW YORK'''
 * City of New York: New York, NY.
-{{clear}}
 
 '''NORTH AMERICA DEFENSE MISSIONS'''
 * Fort St-Jean: add
@@ -331,7 +301,6 @@ Add locations here
 * Nantucket Sound: Nantucket Sound, MA.
 * Fort Phoenix: 41.6244171, -70.9023338
 * Saint-Augustine: NPS Castillo de San Marcos National Monument, 1 South Castillo Drive, St. Augustine, FL.
-{{clear}}
 
 '''EAST COAST'''
 * East Coast: East Coastline, United States of America, Oceania.
@@ -339,28 +308,23 @@ Add locations here
 * City of New York: New York, NY.
 * Frontier: add
 * Atlantic Ocean: Atlantic Ocean, Oceania.
-{{clear}}
 
 '''CARIBBEAN SEA'''
 * Caribbean Sea: Caribbean Sea, The Caribbeans, Oceania.
 * Île Martinique (Martinique): Île Martinique, Caribbean Sea, The Caribbeans, Oceania.
 * The Caribbeans: add
-{{clear}}
 
 '''CANADA'''
 * Oak Island: 44.5135, -64.2939
-{{clear}}
 
 '''MODERN DAY'''
 * Isu Vault: Grand Temple: add
-{{clear}}
 
 '''MENTIONED ONLY'''
 * Bergen op Zoom: Bergen op Zoom, Noord-Brabant, Koninkrijk der Nederlanden.
 * Concord Meeting House: add, Concord, MA.
 * Fort Necessity: 39.814167, -79.587222
 * Jumonville Glen: 39.879444, -79.645556
-{{clear}}
 
 ## Assassin's Creed III: The Ruins at Cerros
 '''CARIBBEAN SEA'''
@@ -369,32 +333,26 @@ Add locations here
 * Isla de Cozumel: add
 * The Ruins at Cerros (Cerros): add
 * Chetumal Bay: add
-{{clear}}
 
 ## Assassin's Creed III: The Tyranny of King Washington
 '''FEDERAL UNION OF NORTH AMERICA'''
 '''CITY OF NEW YORK'''
 * City of New York
-{{clear}}
 
 '''CITY OF BOSTON'''
 * City of Boston
-{{clear}}
 
 '''FRONTIER'''
 * Add
-{{clear}}
 
 # Assassin's Creed Comics: Hawk
 '''EGYPT'''
 * Egypt: Egypt, Africa.
-{{clear}}
 
 # Assassin's Creed: Forsaken
 '''MEDITERRANEAN SEA'''
 * Mediterranean Sea: Mediterranean Sea, Oceania.
 * Isola Corsica (Corsica): Isola Corsica, Mediterranean Sea, Oceania.
-{{clear}}
 
 # Assassin's Creed: Liberation
 Add locations here
@@ -434,13 +392,11 @@ Add locations here
 * Kabah Ruins: add
 * Devil's Eye Caverns: add
 * The Black Trench: add
-{{clear}}
 
 '''CARIBBEAN SEA'''
 * The Caribbeans: add
 * Caribbean Sea: add
 * Isla de la Juventud: add
-{{clear}}
 
 '''MEXICO'''
 * Gulf of Mexico: add
@@ -448,7 +404,6 @@ Add locations here
 * Sacrifice Island <small>(Part Of: Assassin's Creed IV: Black Flag: PlayStation Exclusive Edition)</small>: add
 * Tulum: add
 * Tulum Temple: add
-{{clear}}
 
 '''CUBA'''
 * Cuba Island: Cuba Island, Cuba, West Indies, Oceania.
@@ -460,7 +415,6 @@ Add locations here
 * Havana Bay: add
 * Opening Logo Cinematic Cutscene: add
 * Castillo de los Tres Reyes Magos del Morro: add
-{{clear}}
 
 '''JAMAICA'''
 * Jamaica Island: Jamaica Island, Jamaica, West Indies, Oceania.
@@ -468,7 +422,6 @@ Add locations here
 * Port Royal: add
 * The Observatory: add
 * Long Bay: add
-{{clear}}
 
 '''THE BAHAMAS'''
 * The Bahamas Islands: The Bahamas Islands, The Bahamas, West Indies, Oceania.
@@ -477,7 +430,6 @@ Add locations here
 * Andreas Island <small>(Pirate Camp)</small>: add
 * Crooked Island <small>(Fishermen's Village)</small>: add
 * Cat Island: add
-{{clear}}
 
 '''FEDERAL UNION OF NORTH AMERICA'''
 * State of Florida: add
@@ -485,14 +437,12 @@ Add locations here
 * Florida Peninsula: add
 * The Coastline of Florida: add
 * Charles-Towne: add
-{{clear}}
 
 '''KENWAY'S FLEET NAVAL CAMPAIGN'''
 * Charles-Towne: add
 * New York: add
 * Boston: add
 * Rio de Janeiro: add
-{{clear}}
 
 ## Assassin's Creed IV: Black Flag: Multiplayer Mode
 '''FEDERAL UNION OF NORTH AMERICA'''
@@ -504,11 +454,9 @@ Add locations here
 * Boston North End
 * Fort Wolcott: add
 * Animus Core: New York, NY.
-{{clear}}
 
 '''CANADA'''
 * Northwest Passage: add
-{{clear}}
 
 '''WEST INDIES'''
 * Saba Island: add
@@ -519,7 +467,6 @@ Add locations here
 * La Havana: Havana, Cuba.
 * Prison (Carthagena Jail): add, Cartagena de Indias, Bolívar, Columbia.
 * Fort St-Mathieu: add
-{{clear}}
 
 '''EUROPE'''
 * Antioch: Antioch, Turkey.
@@ -539,12 +486,10 @@ Add locations here
 * Florence: add
 * Siena: add
 * Alhambra: add
-{{clear}}
 
 '''ASIA'''
 * Souk: add, Istanbul, Turkey.
 * Imperial: Imperial District, Istanbul, Turkey.
-{{clear}}
 
 ## Assassin's Creed IV: Black Flag: Aveline
 '''FEDERAL UNION OF NORTH AMERICA'''
@@ -553,7 +498,6 @@ Add locations here
 * Fort Wolcott: 41.49237, -71.3276
 * Slave Fort: 41.48418, -71.32766
 * Newport Tower: 41.485794, -71.309861
-{{clear}}
 
 ## Assassin's Creed IV: Black Flag: Freedom Cry
 '''WEST INDIES'''
@@ -568,18 +512,15 @@ Add locations here
 * Tortuga (Plantation): add
 * Isla Faro: add
 * Fort Matías: add
-{{clear}}
 
 '''CARIBBEAN SEA'''
 * Caribbean Sea: Caribbean Sea, Oceania.
 * Wellington: add
 * Wellington (Plantation): add
 * Scafell Island: add
-{{clear}}
 
 '''ISLA PARÁMO'''
 * Isla Parámo: add
-{{clear}}
 
 '''ÎLE DE HISPANIOLA'''
 * Île de Hispaniola: Île de Hispaniola, The Caribbeans, Caribbean Sea, Oceania.
@@ -592,34 +533,28 @@ Add locations here
 * La Dame en Rose: add
 * Montagnes Noires (Black Mountains): Montagnes Noires, République de Haiti, Île de Hispaniola, The Caribbeans, Caribbean Sea, Oceania.
 * Maroon Hideout: add
-{{clear}}
 
 '''MENTIONED ONLY'''
 * Trinidad & Tobago: Republic of Trinidad & Tobago, Trinidad and Tobago Island, The Caribbeans, Caribbean Sea, Oceania.
 * Yoruba: Ongun State, Federal Republic of Nigeria, Africa.
 * Middle Passage: from:Republic of Gambia, Africa. + to:The Caribbeans, Caribbean Sea, Oceania.
 * The Triangular Trade: 30.56907, -42.81836
-{{clear}}
 
 # Assassin's Creed Comics: El Cakr
 '''EGYPT'''
 * Egypt: Egypt, Africa.
-{{clear}}
 
 # Assassin's Creed Comics: Leila
 '''EGYPT'''
 * Egypt: Egypt, Africa.
-{{clear}}
 
 # Assassin's Creed: Rogue
 '''FEDERAL UNION OF NORTH AMERICA'''
 '''RIVER VALLEY'''
 * Add
-{{clear}}
 
 '''FRONTIER'''
 * Davenport Homestead <small>(on the map)</small>
-{{clear}}
 
 '''CITY OF NEW YORK'''
 * City of New York (New York City) <small>(on the map)</small>
@@ -646,19 +581,16 @@ Add locations here
 * Fresh Water Pond (Unmarked): Thomas Paine Park, 66-68 Centre Street, Lower Manhattan, New York, NY.
 * Manhattan Island: Manhattan Island, NY.
 * Fish Market (Unmarked): 43 Exchange Place, Lower Manhattan, New York, NY.
-{{clear}}
 
 '''PORTUGAL'''
 '''CITY OF LISBON'''
 * City of Lisbon <small>(on the map)</small>: Lisbon, Portugal.
 * Isu Vault <small>(on the map)</small>: Lisbon Vault, Lisbon, Portugal.
-{{clear}}
 
 '''OTHER'''
 * Sardinia Island (Mentioned Only) <small>(on the map)</small>: Sardinia Island, Sardinia, Italy.
 * Lindesfarne Island (Mentioned Only) <small>(on the map)</small>: Holy Island, North Sea, Oceania.
 * Abstergo Entertainment <small>(on the map)</small>: Ubisoft Montreal, Montreal, QC, Canada.
-{{clear}}
 
 '''NAVAL CAMPAIGN'''
 * Louisiana: LA, United States of America.
@@ -677,49 +609,43 @@ Add locations here
 * Cartagena: Cartagena de Indias, Bolívar, Columbia.
 * Buenos Aires: Buenos Aires, Argentina.
 * Île de Gorée (Goree Island): 14.666944, -17.398333
-{{clear}}
 
 # Assassin's Creed: Pirates
 '''WEST INDIES'''
 * West Indies: add
 * Devil's Rock: add
-{{clear}}
 
 '''CARIBBEAN SEA'''
 * The Caribbeans: add
 * Caribbean Sea: add
 * Isla de Cozumel: add
-{{clear}}
 
 # Assassin's Creed Chronicles: China
-'''REPUBLIC OF CHINA'''
+'''IMPERIAL CHINA'''
 * Add
-{{clear}}
 
 # Assassin's Creed Chronicles: India
 '''INDIA'''
 * Agra: Agra, India. <small>(on the map)</small>
-{{clear}}
 
 # Assassin's Creed Chronicles: Russia
 '''UNITED STATES OF SOVIET RUSSIA'''
 * St. Petersburg: St. Petersburg, Russian Federation. <small>(on the map)</small>
-{{clear}}
 
 # Assassin's Creed: Unity
 '''RÉPUBLIQUE FRANÇAISE'''
 '''CITÉ DE PARIS'''
 * Cité de Parìs: Cité de Parìs, République Française. <small>(on the map)</small>
-* Île de lá Cité (District)
-* Île Saint-Louis (Subdistrict)
+> '''ÎLE DE CITÉ (DISTRICT)'''
+> '''ÎLE SAINT-LOUIS (SUBDISTRICT)'''
 * Pont Rouge <small>(now called: Pont Saint-Louis)</small>
 * Café Théâtre: 48.853284, 2.353443 <small>(on the map)</small>
 * Pont Marie
 * Pont de lá Tournelle <small>(originally called: Pont de Fust de I’isle Notre-Dame et Saint-Bernard)</small>
 * Île Saint-Louis
 * Église Saint-Louis en I'île <small>(Unmarked) (Fast Travel)</small>
-* Cité (Subdistrict)
-* Île de lá Cité
+> '''CITÉ (SUBDISTRICT)'''
+* Île de Cité
 * Notre-Dame de Paris <small>(on the map)</small>
 * Square Trousseau: 2 Rue Antoine Vollon
 * Hospice des Enfants Trouvés
@@ -761,7 +687,7 @@ Add locations here
 * Hôtel de Ville (originally called: Mason aux Piliers)
 * Grand Châtelet
 * Place de Grève
-* Porte-Saint-Denis (Subdistrict)
+> '''PORTE-SAINT-DENIS (SUBDISTRICT)'''
 * Porte-Saint-Denis: 19 Boulevard Saint-Denis, 10th arr.
 * Cour des Miracles <small>(on the map)</small>
 * Halles (Subdistrict)
@@ -824,7 +750,6 @@ Add locations here
 * Le Champ de Mars: Parc du Champ de Mars, 2 Allée Adrienne Lecouvreur, 7th arr.
 * Lá Tour Eiffel: 1 Esplanade des Ouvriers de la Tour Eiffel, Parc du Champ de Mars, 7th arr.
 * Les Invalides: Hôtel des Invalides, 129 Rue de Grenelle, 7th arr.
-{{clear}}
 
 '''OTHER'''
 * Les Catacombes <small>(on the map)</small>
@@ -834,7 +759,6 @@ Add locations here
 * Café Procope
 * Hôtel Fieubet
 * Hôtel Saint-Pol
-{{clear}}
 
 '''VILLAGE DE VERSAILLES'''
 * Village de Versailles: Village de Versailles, République Française. <small>(on the map)</small>
@@ -844,11 +768,9 @@ Add locations here
 * Porte Saint-Antoine
 * Recollets (Subdistrict)
 * Recollets: add
-{{clear}}
 
 '''MODERN DAY'''
 * None
-{{clear}}
 
 ## Assassin's Creed: Unity: Dead Kings
 '''RÉPUBLIQUE FRANÇAISE'''
@@ -871,7 +793,6 @@ Quarry (Subdistrict)
 * Quarry: Moulin de Montfermeil, 136 Rue des Moulins, Montfermeil, Saint-Denis
 Catacombs (Subdistrict)
 * Catacombes de Saint-Denis, Basilique de Saint-Denis, 1 Rue de la Légion d'Honneur, Saint-Denis
-{{clear}}
 
 # Assassin's Creed: Origins
 '''EGYPT'''
@@ -979,7 +900,6 @@ Catacombs (Subdistrict)
 * Add
 * Madiama Nome (Region)
 * Add
-{{clear}}
 
 ## Assassin's Creed: Origins: The Curse of the Pharaohs
 '''EGYPT'''
@@ -1024,7 +944,6 @@ Add locations here
 * Hordafylke (Region)
 * Ulvannos Iron Mine
 * Helskip
-{{clear}}
 
 '''BRITAIN'''
 * Breatainn Island (Unmarked): Breatainn Island, United Kingdom.
@@ -1079,7 +998,6 @@ Add locations here
 * Lothingland Island (Unmarked)
 * Foulness Island (Unmarked)
 * Lindesfarne Island (Mentioned Only) (Unmarked): Lindesfarne Island, North Sea, Northumbria, North East, England, United Kingdom.
-{{clear}}
 
 > '''EAST ANGLIA'''
 * East Anglia (Region)
@@ -1123,7 +1041,6 @@ Add locations here
 * Sutton Hoo
 * Needham Lake (Unmarked): Needham Lake, Ipswich, Suffolk, East Anglia, East, England, United Kingdom.
 * Berkelow Bog
-{{clear}}
 
 > '''MERCIA'''
 * Mercia (Region)
@@ -1290,7 +1207,6 @@ Add locations here
 * Earnningstone
 * Besuncen Tor
 * Duroliponte
-{{clear}}
 
 > '''WESSEX'''
 * Wessex (Region)
@@ -1357,7 +1273,6 @@ Add locations here
 * Afon River
 * English Channel
 * Isle of Whit: Isle of Wight
-{{clear}}
 
 > '''NORTHUMBRIA'''
 * Northumbria (Region)
@@ -1385,7 +1300,6 @@ Add locations here
 * Sherwood Hideout
 * Wenloch Abbey
 * Ulkerthorpe Fort
-{{clear}}
 
 > '''ASGARD'''
 * Asgard
@@ -1393,27 +1307,22 @@ Add locations here
 * Ymir’s Altar
 * Bïfrost
 * Great Hall of Valhalla
-{{clear}}
 
 > '''JOTUNHEIM'''
 * Jotunheim
 * Add
-{{clear}}
 
 > '''HELHEIM'''
 * Helheim
 * Add
-{{clear}}
 
 > '''ALFHEIM'''
 * Alfheim
 * Add
-{{clear}}
 
 > '''MIDGARD'''
 * Midgard: Terra, Sol, Local Cluster, Observable Universe.
 * Middle-Earth
-{{clear}}
 
 > '''RIVER RAIDS'''
 * Exe River
@@ -1450,7 +1359,6 @@ Add locations here
 * Cliffside Monastery
 * Riverside Monastery
 * Farnham
-{{clear}}
 
 > '''HILL FIGURES'''
 * The Long Man of Wilmington
@@ -1459,12 +1367,10 @@ Add locations here
 * Cerne Abbas Giant of Dorcestre
 * The White Horse of Folcanstan
 * The White Cross of Lenham
-{{clear}}
 
 > '''MODERN DAY'''
 * Lodge: add
 * Eivor’s Burial Site: Tsoka’wa’kowáhne, Vinland.
-{{clear}}
 
 > '''ENGLISH-HERITAGE LANDMARKS'''
 * Stonehenge
@@ -1474,20 +1380,16 @@ Add locations here
 * Housesteads
 * Brunton Turret
 * Dover Fortress: Dover Castle
-{{clear}}
 
 > '''NATIONAL TRUST LANDMARKS'''
 * Dover Cliffs (White Cliffs of Dover): 51.138772, 1.371164
-{{clear}}
 
 > '''WELSH-HERITAGE LANDMARKS'''
 * Deva Victrix: 53.1913889, -2.8927778
 * Rhuabon Village: 52.995685, -3.047703
-{{clear}}
 
 > '''MENTIONED ONLY'''
 * Aksum
-{{clear}}
 
 '''FORTS'''
 * Clifford: Clifford Roman Fort, North Shields, North East, England, United Kingdom.
@@ -1531,12 +1433,10 @@ Add locations here
 * Banovallum: Horncastle, Lincolnshire
 * Add: Fleaford, Lincolnshire
 * Tilbury Fort
-{{clear}}
 
 '''ROMAN LOCATIONS'''
 * Ratae Corieltauvorum: Leicester Roman Fort
 * Dubris: Dover Roman Fort
-{{clear}}
 
 # Assassin's Creed: Infinity
 Add locations here

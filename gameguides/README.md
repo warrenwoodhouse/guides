@@ -9,6 +9,10 @@ List of Game Guides.
 ## Grand Theft Auto
 Add
 
+## Marvel's Spider-Man
+* [Marvel's Spider-Man](https://github.com/warrenwoodhouse/guides/wiki/marvelsspiderman)
+* [Marvel's Spider-Man: Miles Morales](https://github.com/warrenwoodhouse/guides/wiki/marvelsspidermanmilesmorales)
+
 # Pages
 ## List
 * [PlayStation Guides](https://warrenwoodhouse.tumblr.com/tagged/gameguides-ps)

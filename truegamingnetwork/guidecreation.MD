@@ -1,4 +1,4 @@
-Exerted from (https://www.trueachievements.com/forum/viewthread.aspx?tid=259328)[Forum Post Code Help - Forums - TrueAchievements]
+Exerted from https://www.trueachievements.com/forum/viewthread.aspx?tid=259328 , however some changes were made.
 
 Here's an updated list of forum formatting, Replace { } with [ ].
 

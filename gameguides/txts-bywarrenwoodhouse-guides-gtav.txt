@@ -9975,4 +9975,5 @@ GRAND THEFT AUTO ONLINE ACHIEVEMENTS/MULTIPLAYER ACHIEVEMENTS (sec:chklst:achvmn
 > Crew Cut (GTA Online/Multiplayer/Crew/Jobs) (to achieve this, complete 1 Job while as a member of a Crew) (5gamerpoints)
 > Full Refund (GTA Online/Multiplayer/Tasks) (to achieve this, kill the thief that mugged you) (10gamerpoints)
 > Dialling Digits (GTA Online/Multiplayer/Crew/Backup) (to achieve this, call for Gang Backup for the first time) (5gamerpoints)
+
 > American Dream (GTA Online/Multiplayer/Tasks) (to achieve this, own 1 apartment, 1 garage & 1 insured vehicle) (10gamerpoints)

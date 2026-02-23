@@ -2,19 +2,17 @@
 List of Game Guides.
 
 # Guides
-## Assassin’s Creed
-* [Assassin's Creed III](https://github.com/warrenwoodhouse/guides/wiki/assassinscreediii)
-* [Assassin's Creed: Origins](https://github.com/warrenwoodhouse/guides/wiki/assassinscreedorigins)
-
-## Grand Theft Auto
-Add
-
-## Marvel's Spider-Man
-* [Marvel's Spider-Man](https://github.com/warrenwoodhouse/guides/wiki/marvelsspiderman)
-* [Marvel's Spider-Man: Miles Morales](https://github.com/warrenwoodhouse/guides/wiki/marvelsspidermanmilesmorales)
+* [Assassin's Creed III Guide](https://warrenwoodhouse.blogspot.com/guides/assassinscreediii)
+* [Assassin's Creed: Origins Guide](https://warrenwoodhouse.blogspot.com/guides/assassinscreedorigins)
+* [Grand Theft Auto V - Text Only Guide](https://raw.githubusercontent.com/warrenwoodhouse/guides/refs/heads/main/gameguides/txts-bywarrenwoodhouse-guides-gtav.txt)
+* [Marvel's Spider-Man Guide](https://warrenwoodhouse.blogspot.com/guides/marvelsspiderman)
+* [Marvel's Spider-Man: Miles Morales Guide](https://warrenwoodhouse.blogspot.com/guides/marvelsspidermanmilesmorales)
+* [Marvel's Spider-Man 2 Guide](https://warrenwoodhouse.blogspot.com/guides/marvelsspiderman2)
 
 # Pages
-## List
-* [PlayStation Guides](https://warrenwoodhouse.tumblr.com/tagged/gameguides-ps)
-* [Xbox Guides](https://warrenwoodhouse.tumblr.com/tagged/gameguides-xbox)
-* [Steam Guides](https://warrenwoodhouse.tumblr.com/tagged/gameguides-steam)
+* [Guides](https://warrenwoodhouse.blogspot.com/guides)
+* [Collectibles](https://warrenwoodhouse.blogspot.com/collectibles)
+* [Interactive Maps](https://warrenwoodhouse.blogspot.com/maps/interactive)
+* [Static Maps](https://warrenwoodhouse.blogspot.com/maps/static)
+* [Videos](https://warrenwoodhouse.blogspot.com/videos)
+* [Photo Mode Shots](https://warrenwoodhouse.blogspot.com/photomode)
